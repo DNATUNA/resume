@@ -11,12 +11,12 @@ JS 생태계를 좋아하고 System Architechure에 관심이 있습니다.
 - Github : github.com/DNATUNA
 
 ## 목차
-1. [Work](##Work)
-2. [Education](Education)
-3. [Skill](##Skill)
-4. [Project](##Project)
-5. [Activity](##Activity)
-6. [Prize](##Prize)
+1. [Work](#work)
+2. [Education](#education)
+3. [Skill](#skill)
+4. [Project](#project)
+5. [Activity](#activity)
+6. [Prize](#prize)
 
 ## Work
 ### 🤪Coming Soon..!
@@ -49,7 +49,7 @@ JS 생태계를 좋아하고 System Architechure에 관심이 있습니다.
     - 음성 채팅 서비스가 없는 게임에서 게임이 시작하면 팀원들과 자동으로 음성 매칭을 해주는 서비스
         - 데모에서는 League of Legends(이하 lol)
     - WebRTC와 AWS Chime을 활용한 서비스
-    - 개인 프로젝트 중 [LoL Voice](###LoL%20Voice) 개선 작품
+    - 개인 프로젝트 중 [LoL Voice](#lol-voice) 개선 작품
 - 기간
     - 2021.05.21. ~ 2021.05.23.
 - 역할
